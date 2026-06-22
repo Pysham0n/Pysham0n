@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript" alt="TypeScript">
   <img src="https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala" alt="Scala">
   <img src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk" alt="Java">
-  <img src="https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus" alt="C++">
 </p>
 
 <p align="center"><b>Generative AI & LLM Frameworks</b></p>
